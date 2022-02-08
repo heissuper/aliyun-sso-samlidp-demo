@@ -137,6 +137,7 @@ public class SamlUtils {
 
 	public SamlUtils(){
 	    this(Clock.systemUTC());
+	    
     }
 
 	public SamlUtils(Clock time) {
