@@ -137,7 +137,7 @@ public class SamlUtils {
 
 	public SamlUtils(){
 	    this(Clock.systemUTC());
-	    System.out.println("abc");
+	    System.out.println("abc王义林");
     }
 
 	public SamlUtils(Clock time) {
